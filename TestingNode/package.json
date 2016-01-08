@@ -1,0 +1,21 @@
+{
+    "name": "TestingNode",
+    "description": "Prueba de node",
+    "version": "0.0.1",
+    "main": "./TestingNode.js",
+    "author": {
+        "name": "danielvegapinedo",
+        "email": "danielvegapinedo@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/danielvegapinedo/TestingNode.git"
+    },
+    "bugs": {
+        "url": "http://github.com/danielvegapinedo/TestingNode/issues"
+    }
+}
